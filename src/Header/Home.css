@@ -1,0 +1,31 @@
+.Home{
+	margin-top: 0px;
+	background-image: url("https://images.pexels.com/photos/700974/pexels-photo-700974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=900");
+	width : 100%;
+  	padding: 200px 0;
+  	background-repeat: no-repeat;
+  	background-size:cover;
+}
+
+
+.Home_inner{
+	margin-top: 10px;
+  	width : 100%;
+  	margin-left: 200px;
+}
+.Home input.Home_input_email {
+  width: 300px;
+  padding:5px 10px;
+  border: 0;
+  border-radius: 3px;
+}
+.Home button.home_button{
+	display: block;
+    color: white;
+    background-color: black;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: 2px solid black;
+    margin-left: 320px;
+
+}

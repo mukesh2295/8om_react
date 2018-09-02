@@ -1,0 +1,20 @@
+
+
+.Client_wrapper_top{
+	text-align: center;
+	margin: 40px 0;
+}
+.client_grid{
+    background-size: 100% 100%;
+    background-image: url("http://www.alegriphotos.com/images/medium/2016/Dotted-world-map-2710.jpg");
+    width : 100%;
+  	padding: 150px 0;
+  	background-repeat: no-repeat;
+  	background-size:cover;
+}
+
+.client_column img {
+	padding: 5px 6px;
+	height: 80px;
+	width: 80px;
+}

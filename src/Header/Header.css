@@ -1,0 +1,30 @@
+.header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.header_item ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.header_item li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.header_item a {
+    text-decoration: none;
+    color: white;
+}
+
+.header_item a:hover,
+.header_item a:active,
+.header_item a.active {
+    color: #fa923f;
+}

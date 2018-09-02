@@ -1,0 +1,27 @@
+.Product_top {
+	margin-bottom: 30px;
+}
+
+.Data_Extraction_Row {
+	margin-top: 70px;
+}
+.Data_extraction li {
+	color: #585858;
+}
+
+.Inventary_Row {
+	margin-top: 70px;
+}
+.Inventary_management li{
+	color: #585858;
+}
+
+.Marketing_row {
+	margin-top: 70px;
+}
+.Produt_Marketing {
+	color: #585858;
+}
+.extraction_data p {
+	padding: 0px;
+}

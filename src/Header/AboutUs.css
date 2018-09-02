@@ -1,0 +1,40 @@
+.Team_heading{
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  margin-right: 30px;
+  text-align: center;
+}
+.Work_flow_image{
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+ 
+  height: 60px;
+  width: 100px;
+}
+
+.work_flow_data{
+  margin-left: 80px;
+  margin-top: 30px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+.work-environment_pictures{
+  margin-top: 20px;
+}
+
+.Work-environment_top {
+    margin: 40px 0;
+    text-align: center;
+}
+.try_8om {
+  margin-top: 40px;
+  padding: 40px 0;
+  height: 200px;
+  margin-bottom: 0px;
+  text-align: center;
+  background-color: #E8E8E8;
+}
+
